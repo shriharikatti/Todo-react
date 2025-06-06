@@ -1,12 +1,26 @@
-# React + Vite
+To-Do App
+This is a clean, interactive, and visually unique To-Do application built with React and styled with Tailwind CSS. It allows users to add tasks, mark them as complete with a distinctive "scratch" effect, and delete them.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Add New Tasks: Easily add new to-do items via a clean input field.
 
-Currently, two official plugins are available:
+Toggle Completion: Mark tasks as complete or incomplete with a click on the item.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Scratch" Effect: Completed tasks are visually "scratched out" with a line-through and fade slightly, mimicking a handwritten list.
 
-## Expanding the ESLint configuration
+Delete Tasks: Remove tasks permanently with a dedicated delete button.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Design: Optimized for various screen sizes, from mobile to desktop.
+
+🚀 Technologies Used
+React: A JavaScript library for building user interfaces.
+
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+Vite: A fast build tool for modern web projects.
+
+Node.js & npm: For managing project dependencies.
+
+Google Fonts ('Kalam'): For the handwritten, pencil-like font.
+
+DEMO: [TO DO APP](https://todo-react-xi-tawny.vercel.app/)
